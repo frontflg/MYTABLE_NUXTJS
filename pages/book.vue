@@ -1,5 +1,5 @@
 <template>
-  <dev>
+  <div>
     <v-row>
       <v-col cols="2">
         <v-card-title
@@ -294,7 +294,7 @@
         </v-row>
       </v-col>
     </v-row>
-  </dev>
+  </div>
 </template>
 
 <script>
