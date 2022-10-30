@@ -1,5 +1,5 @@
 <template>
-  <dev>
+  <div>
     <!-- ダイアログ -->
     <v-dialog
       v-model="dialog"
@@ -118,7 +118,7 @@
       item-key="line"
       @click:row="rowClick"
     />
-  </dev>
+  </div>
 </template>
 
 <script>
