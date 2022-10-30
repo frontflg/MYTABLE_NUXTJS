@@ -1,5 +1,5 @@
 <template>
-  <dev>
+  <div>
     <v-row>
       <v-col>
         <v-card-title>
@@ -40,7 +40,7 @@
         {{ item.CREATE_TIME.slice(0,10) }}
       </template>
     </v-data-table>
-  </dev>
+  </div>
 </template>
 
 <script>
